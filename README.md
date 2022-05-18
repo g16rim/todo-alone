@@ -19,6 +19,7 @@
   <h2>2022/05/18</h2>
   <h3>날씨 추가</h3>
   <li>weather.js</li>
+  <li>날씨 API</li>
   <li>
     const emo = document.querySelector("img");
   </li>
