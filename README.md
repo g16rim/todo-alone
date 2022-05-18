@@ -41,8 +41,8 @@
     }
   </ul>
   <ul>todo.js</ul>
-  <li>paintTodo() 함수에 체크 버튼 추가</li>
-  <li>checkTodo() 함수 구현</li>
-  <li>classList를 이용하여 checked 클래스 추가(add) 또는 삭제(remove)</li>
-  <li>todos 배열에도 접근하여 특정 원소의 checked true or false 체크</li>
+  <ul>paintTodo() 함수에 체크 버튼 추가</ul>
+  <ul>checkTodo() 함수 구현</ul>
+  <ul>classList를 이용하여 checked 클래스 추가(add) 또는 삭제(remove)</ul>
+  <ul>todos 배열에도 접근하여 특정 원소의 checked true or false 체크</ul>
   </li>
